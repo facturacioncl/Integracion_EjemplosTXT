@@ -1,0 +1,54 @@
+->Exportacion<-
+110;100000;2007-05-02;B85162071;517;UNIDAD EDITORIAL PRENSA DEPORTIVA, S.L.U.;Prensa;Avda. San Luis, n. 25;MADRID;MADRID;info@uepd.es;
+->ExportacionTotales<-
+PESO;178500;178500;EURO;842.09;211.9726;211.9726;
+->ExportacionDetalle<-
+1;MT0166;LICENCIA CALL WINDOWS SERVER 2003 ESP;10;15000;150000;150000;INT1;UN;DESCRIPCIÓN LARGA DEL PRODUCTO, SOPORTA HASTA 1000 CARACTERES;
+->ExportacionAduana<-
+1;1;1000.00;99;Nombre del medio de transporte;1-9;Nombre CIA Transportadora;STRING 20;STRING 20;COD-OPERADOR;9999;ID-PTO-EMBARQUE;9999;ID-PTO-DESEMBARQUE;9999999;99;99999999.99;99;99999999.99;99;999999999999999999;999999999999999999;99999999999999.9999;99999999999999.9999;999;999;
+->ExportacionBulto<-
+999;9999999999;MARCA STRING 255;STRING 25;STRING 20;STRING 70;
+998;9999999999;MARCA STRING 255;STRING 25;STRING 20;STRING 70;
+->Observacion<-
+DOCUMENTO DE PRUEBA;
+
+->Exportacion<-
+112;50;2007-05-02;B85162071;517;UNIDAD EDITORIAL PRENSA DEPORTIVA, S.L.U.;Prensa;Avda. San Luis, n. 25;MADRID;MADRID;info@uepd.es;
+->ExportacionTotales<-
+PESO;178500;178500;EURO;842.09;211.9726;211.9726;
+->ExportacionDetalle<-
+1;MT0166;LICENCIA CALL WINDOWS SERVER 2003 ESP;10;15000;150000;150000;INT1;UN;DESCRIPCIÓN LARGA DEL PRODUCTO, SOPORTA HASTA 1000 CARACTERES;
+->ExportacionReferencia<-
+1;110;100000;2007-05-02;1;Anula Documento Ref.;
+->Observacion<-
+DOCUMENTO DE PRUEBA;
+
+->Exportacion<-
+110;100000;2007-05-02;B85162071;517;UNIDAD EDITORIAL PRENSA DEPORTIVA, S.L.U.;Prensa;Avda. San Luis, n. 25;MADRID;MADRID;info@uepd.es;
+->ExportacionTotales<-
+EURO;211.97;211.97;PESO CL;842.09;178500;178500;
+->ExportacionDetalle<-
+1;MT0166;LICENCIA CALL WINDOWS SERVER 2003 ESP;1;211.97;211.97;211.97;INT1;UN;DESCRIPCIÓN LARGA DEL PRODUCTO, SOPORTA HASTA 1000 CARACTERES;
+->ExportacionReferencia<-
+1;112;50;2007-05-02;1;Anula Documento Ref.;
+->Observacion<-
+DOCUMENTO DE PRUEBA;
+
+PARA VERIFICAR LOS CÓDIGOS, DEBE VERLOS EN http://comext.aduana.cl:7001/codigos/
+
+->Exportacion<-
+TipoDTE;Folio;FechaEmision;CodIntCliente;Nacionalidad;RSCliente;GiroCliente;DirCliente;ComCliente;CiuCliente;IndServicio;Email;
+->ExportacionTotales<-
+TipoMoneda;Exento;Total;OtraMoneda;TipoCambio;ExentoOtrMnda;TotalOtrMnda;
+->ExportacionDetalle<-
+NroLinea;Codigo;Descripcion;Cantidad;Precio;ValorExento;Valor;TipoCodigo;UniMedida;DescLarga;
+->ExportacionAduana<-
+CodModVenta;CodClauVenta;TotClauVenta;CodViaTransp;NombreTransp;RUTCiaTransp;NomCiaTransp;IdAdicTransp;Booking;Operador;CodPtoEmbarque;IdAdicPtoEmb;CodPtoDesemb;IdAdicPtoDesemb;Tara;CodUnidMedTara;PesoBruto;CodUnidPesoBruto;PesoNeto;CodUnidPesoNeto;TotItems;TotBultos;MntFlete;MntSeguro;CodPaisRecep;CodPaisDestin;
+->ExportacionBulto<-
+CodTpoBultos;CantBultos;Marcas;IdContainer;Sello;EmisorSello;
+->ExportacionReferencia<-
+NroLineaRef;TipoDTERef;FolioRef;FechaRef;CodigoRef;RazonRef;
+->Observacion<-
+Observacion1;
+Observacion2;
+Observacion3;

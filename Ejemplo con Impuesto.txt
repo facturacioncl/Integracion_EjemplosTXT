@@ -1,0 +1,8 @@
+->Encabezado<-
+33;123;2010-12-01;0;0;11111111-1;Cliente de Prueba;Giro de Prueba;Direccion de Prueba #123;Providencia;Santiago;ejemplo@chile.cl;
+->Totales<-
+0;0;0;0;7200;0;19;1368;11727;0;1368;
+->Detalle<-
+1;G95;Gasolina 95;1;7200;0;0;0;0;0;7200;INT1;UN;;
+->ImpuestoRetencion<-
+1;38;3801;

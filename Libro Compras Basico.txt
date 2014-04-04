@@ -1,0 +1,31 @@
+->EncabezadoCompra<-
+33;150;2011-01-16;0;0;13602999-1;Teresa Cerda Vera;Particular;Rio Viejo Psje Arturo Pacheco Altamirano 1038;Chillan;Chillan;2011-01-01;
+->TotalesCompra<-
+0;0;0;0;100000;0;19;190000;1190000;0;0;
+->FinDocumento<-
+->EncabezadoCompra<-
+61;15;2011-01-16;0;0;13602999-1;Teresa Cerda Vera;Particular;Rio Viejo Psje Arturo Pacheco Altamirano 1038;Chillan;Chillan;2011-01-01;
+->TotalesCompra<-
+0;0;0;0;100000;0;19;190000;1190000;0;0;
+->ReferenciaCompra<-
+1;33;150;2011-01-16;1;ANULA FACTURA ELECTRONICA 150;
+->FinDocumento<-
+->EncabezadoCompra<-
+30;12049;2011-01-16;0;0;10601660-7;German Benavides Benavides;Particular;Los Volcanes Km 2 Nº 961;Chillan;Chillan;2011-01-01;
+->TotalesCompra<-
+0;0;0;0;103300;0;19;19627;122927;0;0;
+->DetalleCompra<-
+1;4;Aluminio;30,00;500;0;0;0;0;0;15000;0;;Kg;;
+2;6;Inoxidable;12,00;700;0;0;0;0;0;8400;0;;Kg;;
+3;9;Calefon;11,00;2100;0;0;0;0;0;23100;0;;Kg;;
+4;16;Aluminio Perfil;12,00;1000;0;0;0;0;0;12000;0;;Kg;;
+5;18;Cobre Tubo;56,00;800;0;0;0;0;0;44800;0;;Kg;;
+->FinDocumento<-
+->EncabezadoCompra<-
+30;12050;2011-01-16;0;0;13602999-1;Teresa Cerda Vera;Particular;Rio Viejo Psje Arturo Pacheco Altamirano 1038;Chillan;Chillan;2011-01-01;
+->TotalesCompra<-
+0;0;0;0;92000;0;19;17480;109480;0;0;
+->DetalleCompra<-
+1;3;Cobre Brillante;23,00;2500;0;0;0;0;0;57500;0;;Kg;;
+2;1;Fierro;300,00;90;0;0;0;0;0;27000;0;;Kg;;
+3;2;Lata;100,00;75;0;0;0;0;0;7500;0;;Kg;;

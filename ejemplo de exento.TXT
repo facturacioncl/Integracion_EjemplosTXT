@@ -1,0 +1,10 @@
+->Encabezado<-
+34;1;2008-01-15;0;0;11111111-1;Cliente de Prueba;Giro de Prueba;Dirección de Prueba #123;Providencia;Santiago;ejemplo@chile.cl;
+->Totales<-
+0;0;0;0;0;10000;0;0;10000;
+->Detalle<-
+1;AAA;Producto AAA;10;450;0;0;0;0;4500;4500;INT1;UN;
+2;BBB;Producto BBB;3;500;0;0;0;0;1500;1500;INT1;UN;
+3;CCC;Producto CCC;4;1000;0;0;0;0;4000;4000;INT1;UN;
+->Observacion<-
+Información de Observación de prueba;

@@ -1,0 +1,10 @@
+->Encabezado<-
+61;0;2011-01-16;0;0;11775104-k;Robinson Oyarce Venegas;Transporte;Leucoton 132;chillan;chillan;0;9417635;;Efectivo;;;0;
+->Totales<-
+0;363;0;0;5685;0;19;1080;6765;
+->Detalle<-
+1;337;Inoxidable;12,0;504;6,0;363;0;0;0;5685;;Kilo;
+->Referencia<-
+1;30;16;2011-01-16;3;Devolucion de mercaderias;
+->Observacion<-
+Prueba de nota de credito;

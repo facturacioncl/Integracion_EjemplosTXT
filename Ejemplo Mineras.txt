@@ -1,0 +1,12 @@
+->Encabezado<-
+33;123;2010-12-01;0;0;11111111-1;Cliente de Prueba;Giro de Prueba;Dirección de Prueba #123;Providencia;Santiago;ejemplo@chile.cl;
+->Totales<-
+0;0;0;0;8000;0;19;1520;9520;
+->Detalle<-
+1;1;Producto AAA;10;450;0;0;0;0;0;4500;QBLI;UN;Producto de tipo AAA;
+2;2;Producto BBB;3;500;0;0;0;0;0;1500;QBLI;UN;;
+3;3;Producto CCC;3;1000;0;0;0;0;0;3000;QBLI;UN;;
+->Referencia<-
+1;801;4500000132;2010-11-30;0;ORDEN DE COMPRA;
+->Observacion<-
+Información de Observación de prueba;

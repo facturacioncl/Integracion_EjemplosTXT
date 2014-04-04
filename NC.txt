@@ -1,0 +1,16 @@
+->Encabezado<-
+61;66;2012-09-28;0;0;76081590-K;Sierra Gorda SCM;Explotación de Minerales, Servicios de;Isidora Goyenechea 3000 Piso 14-15;Las Condes;Santiago;;
+->Totales<-
+0.00;0.00;0.00;0.00;1024087854;0;19.00;194576692;1218664546;
+->Detalle<-
+1;MSERVICIOS;1.- Labor;1.000000;895288643.000000;0.00;0.00;0.00;0.00;0;895288643;INT1;UN;
+2;FGASTOS_TARFIJA;2.- ODC;1.000000;105384782.000000;0.00;0.00;0.00;0.00;0;105384782;INT1;UN;
+3;MGASTOS;3.- Gastos;1.000000;23414429.000000;0.00;0.00;0.00;0.00;0;23414429;INT1;UN;
+->Referencia<-
+1;33;182;2012-09-10;1;Rechazo cliente;
+->Adicionales<-
+1;NC anula a la factura afecta N° 182 del 10/09/2012|;
+->Observacion<-
+Basado en Facturas clientes 1000194.;
+;
+;

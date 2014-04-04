@@ -1,0 +1,12 @@
+->EncabezadoCompra<-
+45;12050;2011-01-16;0;0;13602999-1;Teresa Cerda Vera;Particular;Rio Viejo Psje Arturo Pacheco Altamirano 1038;Chillan;Chillan;12050;
+->TotalesCompra<-
+0;0;0;0;92000;0;19;17480;92000;0;17480;
+->DetalleCompra<-
+1;3;Cobre Brillante;23,00;2500;0;0;0;0;0;57500;0;;Kg;;
+2;1;Fierro;300,00;90;0;0;0;0;0;27000;0;;Kg;;
+3;2;Lata;100,00;75;0;0;0;0;0;7500;0;;Kg;;
+->ImpuestoRetencionCompra<-
+1;38;3803;
+2;38;3802;
+3;38;3805;

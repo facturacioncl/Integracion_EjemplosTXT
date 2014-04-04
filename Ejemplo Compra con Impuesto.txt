@@ -1,0 +1,8 @@
+->EncabezadoCompra<-
+33;123;2010-12-01;0;0;11111111-1;Cliente de Prueba;Giro de Prueba;Direccion de Prueba #123;Providencia;Santiago;ejemplo@chile.cl;
+->TotalesCompra<-
+0;0;0;0;1000;0;19;190;1320;130;0;
+->DetalleCompra<-
+1;BBS;Bebida;1;1000;0;0;0;0;0;1000;0;INT1;UN;Sprite;
+->ImpuestoRetencionCompra<-
+1;27;;

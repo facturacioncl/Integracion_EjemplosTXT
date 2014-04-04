@@ -1,0 +1,10 @@
+->Encabezado<-
+33;27002;2012-03-23;0;0;99147000-K;BCI SEGUROS GENERALES S.A.;COMPAÑÍA DE SEGUROS;Huerfanos 1189 - Piso 2;SANTIAGO;SANTIAGO;ejemplo@chile.cl;Contado;222676;;;0;
+->Totales<-
+0;0;0;0;177886;0;19;33798;211684;
+->Detalle<-
+1;0;ASEGURADO : MARIA ISABEL LYON PUELMA;1;234257;0;0;0;0;0;234257;INT1;UNI;a;
+->DescRec<-
+1;D;Deducible;$;56371;0;
+->Observacion<-
+Observación de prueba;

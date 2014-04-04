@@ -1,0 +1,10 @@
+->Encabezado<-
+52;12;2011-01-16;1;5;11775104-k;Robinson Oyarce Venegas;Transporte;Leucoton 132;chillan;chillan;0;
+->Totales<-
+0;1784;0;0;49624;0;19;9429;59053;
+->Detalle<-
+1;332;Aluminio;56,0;504;2,0;564;0;0;0;27660;;Kilo;
+2;333;Al. Lata;34,0;504;5,0;857;0;0;0;16279;;Kilo;
+3;337;Inoxidable;12,0;504;6,0;363;0;0;0;5685;;Kilo;
+->Observacion<-
+prueba de guia de despacho;
